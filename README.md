@@ -62,15 +62,15 @@
 1. [Helm](https://helm.sh/ "Helm")
 
 ##Security
-1. SonarQube
-1. OWASP ZAP
-1. veracode
+1. [SonarQube](https://www.sonarqube.org/ "SonarQube")
+1. [OWASP ZAP](https://owasp.org/www-project-zap/ "OWASP ZAP")
+1. [Veracode](https://www.veracode.com/ "Veracode")
 
 ##Serverless
-1. Azure Functions
-1. Google Firebase
-1. AWS Lambda
-1. Heroku
+1. [Azure Functions](https://azure.microsoft.com/en-us/services/container-instances/ "Azure Functions")
+1. [Google Firebase](https://firebase.google.com/ "Google Firebase")
+1. [AWS Lambda](https://aws.amazon.com/lambda/ "AWS Lambda")
+1. [Heroku](https://www.heroku.com/ "Heroku")
 
 ##Cloud
 1. Azure
@@ -78,3 +78,4 @@
 1. Google Cloud
 1. IBM Cloud
 1. Open Stack
+
