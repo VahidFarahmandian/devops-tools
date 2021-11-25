@@ -18,8 +18,9 @@
 2. [GitHub](https://github.com/ "GitHub")
 3. [GitLab](https://gitlab.com/ "https://gitlab.com/")
 4. [TFVC](https://azure.microsoft.com/en-us/services/devops/ "TFVC")
-5. [Mercurial](https://www.mercurial-scm.org/ "Mercurial")
-6. [Subversion](http://subversion.apache.org/ "Subversion")
+5. [Azure DevOps Repos](https://azure.microsoft.com/en-us/services/devops/ "Azure DevOps Repos")
+6. [Mercurial](https://www.mercurial-scm.org/ "Mercurial")
+7. [Subversion](http://subversion.apache.org/ "Subversion")
 
 ## Continuous Integration
 1. [Jenkins](https://www.jenkins.io/ "Jenkins")
