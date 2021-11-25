@@ -33,33 +33,33 @@
 
 ## Test
 1. [Microsoft Azure DevOps - Test Plans](https://azure.microsoft.com/en-us/services/devops/ "Microsoft Azure DevOps - Test Plans")
-1. Selenium
+1. [Selenium](https://www.selenium.dev/ "Selenium")
 
 ##Package Management
-1. npm
-1. NuGet
-1. yarn
+1. [npm](https://www.npmjs.com/ "npm")
+1. [NuGet](https://www.nuget.org/ "NuGet")
+1. [yarn](https://yarnpkg.com/ "yarn")
 
 ##Analytics and Monitoring
-1. Splunk
-1. DataDog
-1. Dynatrace
-1. ELK
-1. Prometheus
-1. Grafana
+1. [Splunk](https://www.splunk.com/ "Splunk")
+1. [DataDog](https://www.datadoghq.com/ "DataDog")
+1. [Dynatrace](https://www.dynatrace.com/ "Dynatrace")
+1. [ELK](https://www.elastic.io/ "ELK")
+1. [Prometheus](https://prometheus.io/ "Prometheus")
+1. [Grafana](https://grafana.com/ "Grafana")
 
 ##Configuration Automation
-1. Chef
-1. Ansible
-1. Terraform
-1. Puppet
+1. [Chef](https://www.chef.io/ "Chef")
+1. [Ansible](https://www.ansible.com/ "Ansible")
+1. [Terraform](https://www.terraform.io/ "Terraform")
+1. [Puppet](https://puppet.com/ "Puppet")
 
 ##Containers
-1. Ducker
-1. Amazon EKS
-1. Kubernetes
-1. Azure AKS
-1. Helm
+1. [Ducker](https://www.docker.com/ "Ducker")
+1. [Amazon EKS](https://aws.amazon.com/ "Amazon EKS")
+1. [Kubernetes](https://kubernetes.io/ "Kubernetes")
+1. [Azure AKS](https://azure.microsoft.com/en-us/services/kubernetes-service/ "Azure AKS")
+1. [Helm](https://helm.sh/ "Helm")
 
 ##Security
 1. SonarQube
@@ -78,4 +78,3 @@
 1. Google Cloud
 1. IBM Cloud
 1. Open Stack
-
