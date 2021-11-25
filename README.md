@@ -73,9 +73,8 @@
 1. [Heroku](https://www.heroku.com/ "Heroku")
 
 ##Cloud
-1. Azure
-1. AWS
-1. Google Cloud
-1. IBM Cloud
-1. Open Stack
-
+1. [Azure](https://azure.microsoft.com/en-us/ "Azure")
+1. [AWS](https://aws.amazon.com/ "AWS")
+1. [Google Cloud](https://cloud.google.com/ "Google Cloud")
+1. [IBM Cloud](https://www.ibm.com/cloud "IBM Cloud")
+1. [OpenStack](https://www.openstack.org/ "OpenStack")
