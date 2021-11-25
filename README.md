@@ -68,7 +68,7 @@
 5. [Puppet](https://puppet.com/ "Puppet")
 
 ## Containers
-1. [Ducker](https://www.docker.com/ "Ducker")
+1. [Docker](https://www.docker.com/ "Ducker")
 2. [Amazon EKS](https://aws.amazon.com/ "Amazon EKS")
 3. [Kubernetes](https://kubernetes.io/ "Kubernetes")
 4. [Azure AKS](https://azure.microsoft.com/en-us/services/kubernetes-service/ "Azure AKS")
