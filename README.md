@@ -1,9 +1,11 @@
 # DevOps Tools
+
 ## Planning & Issue Tracking
 1. [Atlassian Jira](https://www.atlassian.com/software/jira?t=b&t=b "Atlassian Jira")
 2. [Atlassian Trello](https://trello.com/ "Atlassian Trello")
 3. [Microsoft Azure DevOps - Boards](https://azure.microsoft.com/en-us/services/devops/ "Microsoft Azure DevOps - Boards")
 4. [Asana](https://asana.com/ "Asana")
+5. [Microsoft Office](https://www.office.com/ "Microsoft Office")
 
 ## Collaboration
 1. [Slack](https://slack.com/ "Slack")
@@ -11,11 +13,13 @@
 3. [Atlassian Confluence](https://www.atlassian.com/software/confluence "Atlassian Confluence")
 4. [StackOverflow Teams](https://stackoverflow.com/teams "StackOverflow Teams")
 
-## Source Control Management
+## Source Control Management(SCM & Providers)
 1. [Git](https://git-scm.com/ "Git")
-2. [TFVC](https://azure.microsoft.com/en-us/services/devops/ "TFVC")
-3. [Mercurial](https://www.mercurial-scm.org/ "Mercurial")
-4. [Subversion](http://subversion.apache.org/ "Subversion")
+2. [GitHub](https://github.com/ "GitHub")
+3. [GitLab](https://gitlab.com/ "https://gitlab.com/")
+4. [TFVC](https://azure.microsoft.com/en-us/services/devops/ "TFVC")
+5. [Mercurial](https://www.mercurial-scm.org/ "Mercurial")
+6. [Subversion](http://subversion.apache.org/ "Subversion")
 
 ## Continuous Integration
 1. [Jenkins](https://www.jenkins.io/ "Jenkins")
@@ -53,12 +57,14 @@
 6. [Grafana](https://grafana.com/ "Grafana")
 7. [Zabbix](https://www.zabbix.com/ "Zabbix")
 8. [Raygun](https://raygun.com/ "Raygun")
+9. [Nagios](https://www.nagios.org/ "Nagios")
 
 ## Configuration Automation
 1. [Chef](https://www.chef.io/ "Chef")
-2. [Ansible](https://www.ansible.com/ "Ansible")
-3. [Terraform](https://www.terraform.io/ "Terraform")
-4. [Puppet](https://puppet.com/ "Puppet")
+2. [Microsoft Azure DevOps](https://azure.microsoft.com/en-us/services/devops/ "Microsoft Azure DevOps")
+3. [Ansible](https://www.ansible.com/ "Ansible")
+4. [Terraform](https://www.terraform.io/ "Terraform")
+5. [Puppet](https://puppet.com/ "Puppet")
 
 ## Containers
 1. [Ducker](https://www.docker.com/ "Ducker")
