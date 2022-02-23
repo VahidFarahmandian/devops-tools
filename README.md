@@ -66,6 +66,7 @@
 3. [Ansible](https://www.ansible.com/ "Ansible")
 4. [Terraform](https://www.terraform.io/ "Terraform")
 5. [Puppet](https://puppet.com/ "Puppet")
+6. [Spacelift](https://spacelift.io/)
 
 ## Containers
 1. [Docker](https://www.docker.com/ "Ducker")
